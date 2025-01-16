@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Online-Examination-System
 Online Examination System using Python and Django.
 
