@@ -27,7 +27,6 @@ This project is a fully functional Online Examination System developed using the
 * Frontend: HTML, CSS, Bootstrap
 * Database: SQLite
 
-=======
 # Automatic Detection of Students’ Engagement During Online Learning
 
 ## Project Overview
@@ -68,4 +67,3 @@ The project consists of:
 ## Future Work
 - Explore additional modalities for enhanced accuracy.
 - Expand to diverse educational settings and course structures.
->>>>>>> 0bb3e8b9957a2c3202985af6f6f0eb2f8e30c3b7
